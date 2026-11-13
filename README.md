@@ -1,4 +1,4 @@
-# Monitorizaci-n
+# Monitorización
 
 ## Indice
 
